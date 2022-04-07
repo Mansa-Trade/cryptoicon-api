@@ -11,13 +11,13 @@ const IndexPage = () => {
       </h3>
       <ul>
         <li className="has-line-data">
-          <a href="https://cryptoicon-api.vercel.app/api/icon/btc">
-            https://cryptoicon-api.vercel.app/api/icon/btc
+          <a href="https://coinicons-api.vercel.app/api/icon/btc">
+            https://coinicons-api.vercel.app/api/icon/btc
           </a>
         </li>
         <li className="has-line-data">
-          <a href="https://cryptoicon-api.vercel.app/api/icon/yfi">
-            https://cryptoicon-api.vercel.app/api/icon/yfi
+          <a href="https://coinicons-api.vercel.app/api/icon/yfi">
+            https://coinicons-api.vercel.app/api/icon/yfi
           </a>
         </li>
       </ul>
@@ -26,8 +26,8 @@ const IndexPage = () => {
       </h3>
       <p className="has-line-data" data-line-end="11">
         Add 128x128 transparent png images in a PR in our repo:{" "}
-        <a href="https://github.com/TokenTax/cryptoicon-api">
-          https://github.com/TokenTax/cryptoicon-api
+        <a href="https://github.com/serranoarevalo/cryptoicon-api">
+          https://github.com/serranoarevalo/cryptoicon-api
         </a>
       </p>
     </div>
