@@ -1,7 +1,5 @@
 # Crypto Icon API
 
-A public API hosted by [TokenTax](https://tokentax.co) for cryptocurrency icons
-
 ### Examples
 - [https://cryptoicon-api.vercel.app/api/icon/btc](https://cryptoicon-api.vercel.app/api/icon/btc)
 - [https://cryptoicon-api.vercel.app/api/icon/yfi](https://cryptoicon-api.vercel.app/api/icon/yfi)
