@@ -6,10 +6,6 @@ const IndexPage = () => {
       <h1 className="code-line">
         <a id="Crypto_Icon_API_0"></a>Crypto Icon API
       </h1>
-      <p className="has-line-data">
-        A public API hosted by <a href="https://tokentax.co">TokenTax</a> for
-        cryptocurrency icons
-      </p>
       <h3 className="code-line">
         <a id="Examples_4"></a>Examples
       </h3>
