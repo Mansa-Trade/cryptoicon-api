@@ -22,6 +22,7 @@ export default (req: NowRequest, res: NowResponse) => {
     res.writeHead(200, {
       "Content-Type": "image/png",
       "Content-disposition": "inline; filename=" + symbol,
+      "Cache-Control": "max-age=31536000, immutable"
     });
 
     readStream.pipe(res);
